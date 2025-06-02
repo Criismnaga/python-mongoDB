@@ -22,7 +22,7 @@ docker run -d \
   mongo
 ```
 
-OBS: É possivel visualizar de forma gráfica e interativa os bancos de dados, coleções e documentos com o `Mongo Compass`.
+OBS: É possivel visualizar de forma gráfica e interativa os bancos de dados, coleções e documentos com o `Mongo Compass`. O DBeaver Community não oferece mais suporte ao MongoDB.
 
 2. **Crie o ambiente virtual e ative**:
 
